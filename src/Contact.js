@@ -26,7 +26,7 @@ class Contact extends Component {
                         <span>
                             <ion-icon name="phone-portrait"></ion-icon>
                         </span>
-                        <h4 class = "wechath"> Wechat</h4>
+                        <h4 class = "wechath"> Skype</h4>
                         <p class = "wechat"> fadillahmic</p>
                     </div>
             </div>
