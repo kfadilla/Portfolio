@@ -5,7 +5,7 @@ class Contact extends Component {
         return (
             <div class = "contact">
                 <h1 class = "head">I appreciate all your time for seeing my FIRST EVER little react project!</h1>
-                <h2 class = "head2">Please DON'T let me know if the design is awful, and I believe there will be a better version in the future ;)</h2>
+                <h2 class = "head2">I believe there will be a better version in the future ;)</h2>
                 <h2 class = "head2">Contact me if there is any potential opportunity, or just wanna discuss MORE about coding!</h2>
                 <div class = "ways">
                     <div>
