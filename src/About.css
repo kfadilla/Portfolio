@@ -1,0 +1,51 @@
+.about {
+    background-color: blanchedalmond;
+    height: 917px;
+}
+.abouthead {
+    margin-top : -100px;
+    font-size : 50px;
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    text-transform: uppercase;
+}
+
+.description {
+    color: #333333; 
+    font-family: Georgia, serif; 
+    font-size: 18px; 
+    line-height: 30px;
+    margin: 0 0 28px;
+    padding-left : 50px;
+    animation-duration: 1s;
+    animation-name: fadeIn;
+    animation-timing-function: cubic-bezier(.71,.55,.62,1.57);
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+ }
+ 
+ @keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+ }
+
+ .fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+ }
+
+
+.des {
+    padding-top : 40px;
+    margin: 0 auto;
+}
+
+.pic {
+    padding-top : 100px;
+    padding-right : 100px;
+    height: 550px;
+}

@@ -1,0 +1,54 @@
+.contact {
+    background-color: blanchedalmond;
+    height: 917px;
+    margin-top : -35px;
+}
+
+.head {
+    padding-top: 150px;
+    text-align: center;
+    font-size : 50px;
+}
+
+.head2{
+    text-align: center
+}
+
+.content {
+    text-align: center;
+    font-size: 25px;
+}
+
+.ways {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around
+}
+
+.ways span {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: block;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+.ways span ion-icon {
+    padding-top: 35px;
+    padding-left: 35px;
+    contain: none
+}
+
+.ways h4 {
+    padding-left: 30px;
+
+}
+
+.wechath{
+    margin-right : 20px;
+}
+.wechat {
+    margin-left: 20px;
+}
+
