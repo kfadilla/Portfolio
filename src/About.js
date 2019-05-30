@@ -18,7 +18,7 @@ class About extends Component {
                 <p class = "description">My name is Kwong Yuet Michael Fadillah Wong. (Michael Fadillah) I am looking for full-time new grad SDE opportunity.</p>
                 <p class = "description">I am an undergrad at Indiana University, majoring in Computer Science, and specialize in Artificial intelligence, also minor in Business.</p>
                 <p class = "description">With that being said, this is my first front-end react project ever!</p>
-                <p class = "description">At first, I was majoring in business, but I wanted to learn more technical skill then I decided to major in Computer science.</p>
+                <p class = "description">At first, I was majoring in business, but I wanted to learn more technical skills then I decided to major in Computer Science.</p>
                 <p class = "description">Building code and passing test cases give me a sense accomplishment and satisfying.</p>
                 <p class = "description">I also like to learn new things, some of my friends who are majoring in business need to take some course that is relating writing regex in Python</p>
                 <p class = "description">Which I did not learn from my course. </p>
