@@ -22,9 +22,9 @@ class About extends Component {
                 <p class = "description">Building code and passing test cases give me a sense accomplishment and satisfying.</p>
                 <p class = "description">I also like to learn new things, some of my friends who are majoring in business need to take some course that is relating writing regex in Python</p>
                 <p class = "description">Which I did not learn from my course. </p>
-                <p class = "description">But I wanted to help them, so I asked them to send my course material, and start learning online. </p>
-                <p class = "description">Then try to complete their assignment in my own copy, and anaylze their homwork in depth, because I want them to learn. </p>
-                <p class = "description">Therefore, I would schedule a time with them, and try my best to lead them step by step, and think through process. </p>
+                <p class = "description">But I wanted to help them, so I asked them to send my course material, and started learning online. </p>
+                <p class = "description">Then tried to complete their assignment in my own copy, and anaylzed their homwork in depth, because I wanted them to learn. </p>
+                <p class = "description">Therefore, I would schedule a time with them, and tried my best to lead them step by step, and think through the process. </p>
                 <p class = "description">Click <a href = "https://drive.google.com/file/d/1XoaZ1CkLlsj7V7n6J-asgVrsRMVaqiRP/view?usp=sharing">here</a> to see my resume!</p>
                 </div>
             </section>
